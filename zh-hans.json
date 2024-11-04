@@ -598,6 +598,7 @@
   "Instance saved": "实例已保存",
   "Integrate Snapshots with VMware": "VMware 集成快照",
   "Internal": "内部",
+  "Invalid CPU configuration.": "无效 CPU 配置",
   "Invalid Date": "无效日期",
   "Invalid pool name (please refer to <a href=\"https://openzfs.github.io/openzfs-docs/man/8/zpool-create.8.html#DESCRIPTION\" target=\"_blank\">the documentation</a> for valid rules for pool name)": "无效的池名称（请参阅<a href=\"https://openzfs.github.io/openzfs-docs/man/8/zpool-create.8.html#DESCRIPTION\" target=\"_blank\">文档</a>以获取有效的池名称规则）",
   "Ipmi": "IPMI（智能平台管理接口）",
